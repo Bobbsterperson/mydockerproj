@@ -70,6 +70,3 @@ async def sorted():
     global items_storage
     for item in items_storage:
         item["price"]
-
-# def clear_list():
-#     items_storage = []
